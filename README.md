@@ -10,6 +10,10 @@
 <img src="https://komarev.com/ghpvc/?username=alevaka&style=flat-square&color=blue" alt=""/>
 </div>
 
+<!-- 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=alevaka)](https://github.com/KnlnKS/leetcode-stats)
+-->
+
 ## Привет, я Алексей 👋
 
 ### :man_technologist: Про меня :
@@ -41,3 +45,9 @@ Python-backend разработчик из России.
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=alevaka&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alevaka&layout=compact&theme=vision-friendly-light&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
